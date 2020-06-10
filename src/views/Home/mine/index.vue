@@ -27,7 +27,7 @@ export default {
 
 <style lang="less" >
    @import '~@/assests/styles/common.less';
-	.healthService{
+	.mine{
 	  padding-top: 20px;
 	  text-align: center;
 	  font-size: 24px;
